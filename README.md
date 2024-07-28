@@ -1,4 +1,4 @@
 # hello-world
-first repository
+First repository
 
 Week 1 Assignment Solutions
